@@ -1,2 +1,2 @@
 # jocoder95.github.io
-just a  site 
+Official buzzigma website
