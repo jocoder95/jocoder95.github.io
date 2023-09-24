@@ -14,8 +14,27 @@ body {
 }
 
 .full-screen {
-  padding: 8rem 0;
+  padding: 6rem 0;
 }
+
+
+
+.learn-more {
+    background: #ffc200;
+    border-radius: 50px;
+    color: #ffffff;
+    font-weight: bold;
+    border: 0;
+    cursor: pointer;
+    transition: all 0.4s ease;
+    padding: 10px 20px 10px 20px;
+}
+
+.learn-more:hover {
+    background: #474559;
+}
+
+
 
 .small-text {
   color: #5b5b5b;
