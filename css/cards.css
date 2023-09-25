@@ -1,5 +1,19 @@
 
 
+/* Media query to show the element on mobile screens */
+@media (min-width: 600px) {
+    .mobile-element {
+        display: none;
+    }
+}
+
+/* Show element on screens under 600px */
+@media (max-width: 599px) {
+    .mobile-element {
+        display: block;
+    }
+}
+
 .containercd {
     width: 1000px;
     position: relative;
